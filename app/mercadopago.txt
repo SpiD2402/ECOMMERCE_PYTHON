@@ -1,0 +1,23 @@
+{
+  "id": 1866468034,
+  "nickname": "TESTUSER277506218",
+  "password": "gxw9GOePeZ",
+  "site_status": "active",
+  "site_id": "MPE",
+  "description": "Vendedor | Tienda",
+  "date_created": "2024-06-19T16:27:10-04:00",
+  "date_last_updated": "2024-06-19T16:27:10-04:00"
+}
+
+
+
+{
+  "id": 1863958465,
+  "nickname": "TESTUSER1241176636",
+  "password": "Vxbm6pq86Z",
+  "site_status": "active",
+  "site_id": "MPE",
+  "description": "Comprador",
+  "date_created": "2024-06-19T16:30:18-04:00",
+  "date_last_updated": "2024-06-19T16:30:18-04:00"
+}
